@@ -1,4 +1,4 @@
-** Vehicle Detection and Tacking Project **
+# Vehicle Detection and Tacking Project
 
 In this project, my goal is to write a software pipeline to detect vehicles in a video.
 
@@ -31,7 +31,6 @@ The steps of this project are the following:
 [image14]: ./output_images/pipeline2.png "pipeline2" 
 [image15]: ./output_images/pipeline3.png "pipeline3"
 [image16]: ./output_images/pipeline4.png "pipeline4"
-[image17]: ./output_images/pipeline5.png "pipeline5"
 
 Video Reference:
 
@@ -47,8 +46,6 @@ I have written 'data_look()' function to extract this information.
 The code for exploring and visualizing the data is contained in the "Data Exploration" and "Data Visualisation "  cells of the IPython notebook.
 
 Shown below is an example of each class (vehicle, non-vehicle) of the data set.
-
-# data_exploration
 
 ![alt text][image1]
 
@@ -199,9 +196,6 @@ I have built a 'video_pipeline()' function that combines all the work so far. Th
 
 # pipeline4
 ![alt text][image16]
-
-# pipeline5
-![alt text][image17]
 
 
 I have applied the pipeline to the both test and project video and confirmed they performed as expected. 
