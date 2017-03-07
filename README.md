@@ -1,4 +1,4 @@
-# Vehicle Detection and Tacking Project
+# Vehicle Detection and Tracking Project
 
 In this project, my goal is to write a software pipeline to detect vehicles in a video.
 
@@ -203,10 +203,10 @@ This completed video can be found [here]
 
 ### Project video
 
-[video1]: ./project_video_1.mp4 "project video"
+[video1]: ./project_video_1.mp4
 
 ### Test Video
-[video2]: ./test_video_1.mp4 "Test Video"
+[video2]: ./test_video_1.mp4
 
 ## Discussion
 This project was very challenging as it required a lot of parameters tuining.At times,I found it was hard to isolate the problem area due to use of overwhelming number of parameters that requires manual tuning.
