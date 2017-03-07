@@ -17,7 +17,7 @@ The steps of this project are the following:
 [//]: # (Image References)
 [image1]: ./output_images/car_notcar_image.png "data_exploration"
 [image2]: ./output_images/bin_spatial.png "bin_spatial"
-[image3]: ./output_images/hog_features.png "Hog_Visualisation"
+[image3]: ./output_images/Hog_Visualisation.png "Hog_Visualisation"
 [image4]: ./output_images/extract_single_image_feature.png "extract_single_image_feature"
 [image5]: ./output_images/Normalized_Features_image.png "Normalized_Feature_image"
 [image6]: ./output_images/slide_window_96x96.png "window_search"
@@ -160,7 +160,7 @@ The results are as follows:
 # Multiple_detections1
 ![alt text][image8]
 
-# Multiple_detections1
+# Multiple_detections2
 ![alt text][image9]
 
 I have found the classifier reported multiple overlapping detections for each of the vehicles after applying bounding boxes.
